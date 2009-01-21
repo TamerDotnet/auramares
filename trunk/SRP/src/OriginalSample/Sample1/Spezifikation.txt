@@ -1,0 +1,12 @@
+﻿SRP - Refaktorisierung einer bestehenden Anwendung
+==================================================
+
+Die gegebene Anwendung ist repräsentativ für die Art und Weise, wie heute Software entwickelt wird.
+Eine gegebene Klasse ist verantwortlich für viele Dinge. 
+Damit ist diese Software NICHT oder nur sehr schwer (Unit-) testbar
+
+Spezifikationen:
+----------------
+ * Refaktorisieren Sie diese Anwendung und berücksichtigen Sie insbesondere das SRP
+ * Vergessen Sie auch nicht alles andere gelernte, wie DI und Interface basierte Programmierung
+ * Alle Elemente sollen mittels TDD entwickelt werden

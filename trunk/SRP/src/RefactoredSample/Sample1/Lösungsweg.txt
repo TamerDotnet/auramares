@@ -1,0 +1,12 @@
+﻿Schritt für Schritt Lösung
+==========================
+
+1) Implementiere eine Klasse Product mit den Properties (Id, Name, UnitPrice und Discontinued)
+2) Implementiere mit TDD eine ProductMapper Klasse, deren einzige Aufgabe es ist ein "Product" XML Fragment in ein Product Objekt zu mappen
+3) Refaktorisiere das Form und verwende die ProductMapper Klasse
+4) Teste die Anwendung (manuell)
+5) Extrahiere ein Interface IProductMapper von ProductMapper zwecks weiterer Verwendung in den folgenden Schritten
+6) Implementiere mit TDD eine Klasse ProductRepository, welche bei Angabe des Dateinamens ein IEnumerable<Product> zurückliefert
+7) Refaktorisiere das Form und verwende die ProductRepository Klasse
+8) Teste die Anwendung (manuell)
+9) Implementiere einen Presenter zum Form (mittels TDD)
